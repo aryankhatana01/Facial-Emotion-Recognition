@@ -9,3 +9,4 @@ I trained this model for just 5-7 minutes on a basic architecture and got an acc
 - Earlystopping
 - Different model architecture etc
 
+**Note: I could not provide the saved model because the file was greater than 25Mb, so it could not be uploaded to github. You'll have to train the model first using the Python Notebook (All The Best😁).**
