@@ -3,7 +3,7 @@ This is a random project I made while practicing my Deep Learning skills on Kagg
 
 Link of the Dataset:- [Click Here](https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge)
 
-I trained this model for just 5-7 minutes on a basic architecture and got an accuracy of 65%. You can improve this model a lot by trying:
+I trained this model for just 5-7 minutes on a basic architecture and got an accuracy of 65%. This model can be improved by trying the following:
 - Data Augmentation
 - Learning Rate Scheduling
 - Earlystopping
